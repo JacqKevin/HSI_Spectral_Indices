@@ -2,7 +2,8 @@ A list of spectroscopic and remote sensing indices. If you find that important r
 
 # Spectroscopic and hyperspectral indices:
 ## VNIR 400-1000nm
-* Chlorophylls R675/R750 , Chlorophylls R645/R675 
+* Chlorophylls R675/R750 
+* Chlorophylls R645/R675 
 * Chlorophylls R660/R670 
 * Chlorophylls R590/R690 
 * Chlorophylls R675-R750 
