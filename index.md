@@ -109,15 +109,45 @@ Jackisch, R., Lorenz, S., Zimmermann, R., Möckel, R., Gloaguen, R. (2018) Drone
 * Green Normalized Difference Vegetation Index (GNDVI) 
 * Iron Oxide (IO) 
 * SR680 Chlorophylls 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * SR705 Chlorophylls 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * ND680 Chlorophylls 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * ND705 Chlorophylls 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * mSR705 Chlorophylls 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * mND705 Chlorophylls 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * PRI Chlorophylls/Carotenoids 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * SIPI Chlorophylls/Carotenoids 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
 * PSRI Chlorophylls/Carotenoids 
-* R/G Anthocyanin 
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* R/G Anthocyanin
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+``` 
 
 ## SWIR 1000-2500nm
 * Clay Minerals (CM) 
