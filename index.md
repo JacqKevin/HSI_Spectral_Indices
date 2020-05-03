@@ -91,23 +91,68 @@ Jackisch, R., Lorenz, S., Zimmermann, R., Möckel, R., Gloaguen, R. (2018) Drone
 * R1935/R1450 
 * R1935/R2200 
 * Normalized Differenced Gypsum Ratio (NDGI) 
+```markdown
+Milewski, R., Chabrillat, S., Brell, M., Schleicher, A.M., Guanter, L. (2019) Assessment of the 1.75 μm absorption feature for gypsum estimation using laboratory, air- and spaceborne hyperspectral sensors. International Journal of Applied Earth Observation and Geoinformation 77: 69–83
+```
 * Calcite R2340 
+```markdown
+Sun, L., Khan, S., Godet, A. (2018) Integrated ground-based hyperspectral imaging and geochemical study of the Eagle Ford Group in West Texas. Sedimentary Geology 363: 34–47
+```
 * Illite-muscovite crystallinity R1900/R2200 
+```markdown
+Doublier, M.P., Roache, T., Potel, S. (2010) Short-wavelength infrared spectroscopy: A new petrological tool in low-grade to very low-grade pelites. Geology 38: 1031–1034
+```
 * Kaolinite Crystallinity Index (KCI) 
+```markdown
+Alonso de Linaje, V., Khan, S.D. (2017) Mapping of diagenetic processes in sandstones using imaging spectroscopy: A case study of the Utrillas Formation, Burgos, Spain. Sedimentary Geology 353: 114–124
+```
 
 # Remote sensing indices:
 ## VNIR 400-1000nm 
 * Normalized Difference Vegetation Index (NDVI) 
+```markdown
+Rouse, J., R. Haas, J. Schell, and D. Deering. Monitoring Vegetation Systems in the Great Plains with ERTS. Third ERTS Symposium, NASA (1973): 309-317
+```
 * Normalized difference water index (NDWI) 
+```markdown
+Gao. "NDWI—A normalized difference water index for remote sensing of vegetation liquid water from space." 1996
+```
 * Modified Soil-adjusted Vegetation Index (MSAVI2) 
+```markdown
+Qi J., Kerr Y., Chehbouni A., 1994. External factor consideration in vegetation index development. Proc. of Physical Measurements and Signatures in Remote Sensing, ISPRS, 723-730.
+```
 * Modified Triangular Vegetation Index (MTVI2) 
+```markdown
+Haboudane, D., et al. "Hyperspectral Vegetation Indices and Novel Algorithms for Predicting Green LAI of Crop Canopies: Modeling and Validation in the Context of Precision Agriculture." Remote Sensing of Environment 90 (2004): 337-352
+```
 * Visible Atmospherically Resistant Index (VARI) 
+```markdown
+Gitelson, A., et al. "Vegetation and Soil Lines in Visible Spectral Space: A Concept and Technique for Remote Estimation of Vegetation Fraction. International Journal of Remote Sensing 23 (2002): 2537−2562
+```
 * Triangular greenness index (TGI) 
+```markdown
+Hunt, E., C. Daughtry, J. Eitel, and D. Long. "Remote Sensing Leaf Chlorophyll Content Using a Visible Band Index." Agronomy Journal 103, No. 4 (2011): 1090-1099
+```
 * Enhanced Vegetation Index (EVI) 
+```markdown
+Huete, A., et al. "Overview of the Radiometric and Biophysical Performance of the MODIS Vegetation Indices." Remote Sensing of Environment 83 (2002):195–213
+```
 * Soil-adjusted Vegetation Index (SAVI) 
+```markdown
+Huete, A. "A Soil-Adjusted Vegetation Index (SAVI)." Remote Sensing of Environment 25 (1988): 295-309
+```
 * Global Environmental Monitoring Index (GEMI) 
+```markdown
+Pinty, B., and M. Verstraete. GEMI: a Non-Linear Index to Monitor Global Vegetation From Satellites. Vegetation 101 (1992): 15-20
+```
 * Green Normalized Difference Vegetation Index (GNDVI) 
+```markdown
+Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692
+```
 * Iron Oxide (IO) 
+```markdown
+Segal, D. "Theoretical Basis for Differentiation of Ferric-Iron Bearing Minerals, Using Landsat MSS Data." Proceedings of Symposium for Remote Sensing of Environment, 2nd Thematic Conference on Remote Sensing for Exploratory Geology, Fort Worth, TX (1982): pp. 949-951
+```
 * SR680 Chlorophylls 
 ```markdown
 Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
@@ -151,5 +196,8 @@ Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and sp
 
 ## SWIR 1000-2500nm
 * Clay Minerals (CM) 
+```markdown
+Drury, S. Image Interpretation in Geology. London: Allen and Unwin (1987), 243 pp
+```
 * Sand moisture index (SMI) 
 * SWIR Fine particles Index (FI) 
