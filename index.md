@@ -70,29 +70,14 @@ Trachsel, M., Grosjean, M., Schnyder, D., Kamenik, C., Rein, B. (2010) Scanning 
 Das, B., Vinebrooke, R.D., Sanchez-azofeifa, A., Rivard, B., Wolfe, A.P. (2005) Inferring sedimentary chlorophyll concentrations with reflectance spectroscopy : a novel approach to reconstructing historical changes in the trophic status of mountain lakes. Canadian Journal of Fisheries and Aquatic Sciences 62: 1067–1078
 ```
 * Chlorophylls Area600-650 
-```markdown
-
-```
 * Chlorophylls Area690-730 
-```markdown
-
-```
 * Chlorophylls (Area650-700)/R670 
-```markdown
-
-```
 * RABA400-560 
-```markdown
-
-```
 * Carotenoids RABD510 
 ```markdown
 Rein, B., Sirocko, F. (2002) In-situ reflectance spectroscopy - analysing techniques for high-resolution pigment logging in sediment cores. International Journal of Earth Sciences 91: 950–954
 ```
 * Oxydes d555 
-```markdown
-
-```
 * Oxydes R720/R880  
 ```markdown
 Jackisch, R., Lorenz, S., Zimmermann, R., Möckel, R., Gloaguen, R. (2018) Drone-borne hyperspectral monitoring of acid mine drainage: An example from the Sokolov lignite district. Remote Sensing 10: 1–23
