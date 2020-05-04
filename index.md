@@ -72,13 +72,15 @@ Das, B., Vinebrooke, R.D., Sanchez-azofeifa, A., Rivard, B., Wolfe, A.P. (2005) 
 * Chlorophylls Area600-650 
 * Chlorophylls Area690-730 
 * Chlorophylls (Area650-700)/R670 
-* RABA400-560 
+* Phycocyanin (Area600-630)/R615
+* Bacteriochlorophyll a RABD846
 * Carotenoids RABD510 
 ```markdown
 Rein, B., Sirocko, F. (2002) In-situ reflectance spectroscopy - analysing techniques for high-resolution pigment logging in sediment cores. International Journal of Earth Sciences 91: 950–954
 ```
 * Oxydes d555 
-* Oxydes R720/R880  
+* Oxydes RABA400-560 
+* Iron Oxydes R720/R880  
 ```markdown
 Jackisch, R., Lorenz, S., Zimmermann, R., Möckel, R., Gloaguen, R. (2018) Drone-borne hyperspectral monitoring of acid mine drainage: An example from the Sokolov lignite district. Remote Sensing 10: 1–23
 ```
@@ -89,7 +91,6 @@ Jackisch, R., Lorenz, S., Zimmermann, R., Möckel, R., Gloaguen, R. (2018) Drone
 * Hydroxyl bonds R1450 
 * Moisture R1935 
 * R1935/R1450 
-* R1935/R2200 
 * Normalized Differenced Gypsum Ratio (NDGI) 
 ```markdown
 Milewski, R., Chabrillat, S., Brell, M., Schleicher, A.M., Guanter, L. (2019) Assessment of the 1.75 μm absorption feature for gypsum estimation using laboratory, air- and spaceborne hyperspectral sensors. International Journal of Applied Earth Observation and Geoinformation 77: 69–83
@@ -108,96 +109,131 @@ Alonso de Linaje, V., Khan, S.D. (2017) Mapping of diagenetic processes in sands
 ```
 
 # Remote sensing indices:
-## VNIR 400-1000nm 
-* Normalized Difference Vegetation Index (NDVI) 
-```markdown
-Rouse, J., R. Haas, J. Schell, and D. Deering. Monitoring Vegetation Systems in the Great Plains with ERTS. Third ERTS Symposium, NASA (1973): 309-317
-```
-* Normalized difference water index (NDWI) 
-```markdown
-Gao. "NDWI—A normalized difference water index for remote sensing of vegetation liquid water from space." 1996
-```
-* Modified Soil-adjusted Vegetation Index (MSAVI2) 
-```markdown
-Qi J., Kerr Y., Chehbouni A., 1994. External factor consideration in vegetation index development. Proc. of Physical Measurements and Signatures in Remote Sensing, ISPRS, 723-730.
-```
-* Modified Triangular Vegetation Index (MTVI2) 
-```markdown
-Haboudane, D., et al. "Hyperspectral Vegetation Indices and Novel Algorithms for Predicting Green LAI of Crop Canopies: Modeling and Validation in the Context of Precision Agriculture." Remote Sensing of Environment 90 (2004): 337-352
-```
-* Visible Atmospherically Resistant Index (VARI) 
-```markdown
-Gitelson, A., et al. "Vegetation and Soil Lines in Visible Spectral Space: A Concept and Technique for Remote Estimation of Vegetation Fraction. International Journal of Remote Sensing 23 (2002): 2537−2562
-```
-* Triangular greenness index (TGI) 
-```markdown
-Hunt, E., C. Daughtry, J. Eitel, and D. Long. "Remote Sensing Leaf Chlorophyll Content Using a Visible Band Index." Agronomy Journal 103, No. 4 (2011): 1090-1099
-```
-* Enhanced Vegetation Index (EVI) 
+## VNIR 400-1000nm Difference Vegetation Index (DVI)
+* Enhanced Vegetation Index (EVI)
 ```markdown
 Huete, A., et al. "Overview of the Radiometric and Biophysical Performance of the MODIS Vegetation Indices." Remote Sensing of Environment 83 (2002):195–213
 ```
-* Soil-adjusted Vegetation Index (SAVI) 
-```markdown
-Huete, A. "A Soil-Adjusted Vegetation Index (SAVI)." Remote Sensing of Environment 25 (1988): 295-309
-```
-* Global Environmental Monitoring Index (GEMI) 
+* Global Environmental Monitoring Index (GEMI)
 ```markdown
 Pinty, B., and M. Verstraete. GEMI: a Non-Linear Index to Monitor Global Vegetation From Satellites. Vegetation 101 (1992): 15-20
 ```
-* Green Normalized Difference Vegetation Index (GNDVI) 
+* Green Atmospherically Resistant Index (GARI)
+* Green Chlorophyll Index (GCI)
+* Green Difference Vegetation Index (GDVI)
+* Green Leaf Index (GLI)
+* Green Normalized Difference Vegetation Index (GNDVI)
 ```markdown
 Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692
 ```
-* Iron Oxide (IO) 
+* Green Optimized Soil Adjusted Vegetation Index (GOSAVI)
+* Green Ratio Vegetation Index (GRVI)
+* Green Soil Adjusted Vegetation Index (GSAVI)
+* Infrared Percentage Vegetation Index (IPVI)
+* Leaf Area Index (LAI)
+* Modified Non-Linear Index (MNLI)
+* Modified Simple Ratio (MSR)
+* Modified Soil Adjusted Vegetation Index 2 (MSAVI2)
+```markdown
+Qi J., Kerr Y., Chehbouni A., 1994. External factor consideration in vegetation index development. Proc. of Physical Measurements and Signatures in Remote Sensing, ISPRS, 723-730.
+```
+* Non-Linear Index (NLI)
+* Normalized Difference Vegetation Index (NDVI)
+```markdown
+Rouse, J., R. Haas, J. Schell, and D. Deering. Monitoring Vegetation Systems in the Great Plains with ERTS. Third ERTS Symposium, NASA (1973): 309-317
+```
+* Optimized Soil Adjusted Vegetation Index (OSAVI)
+* Renormalized Difference Vegetation Index (RDVI)
+* Soil Adjusted Vegetation Index (SAVI)
+```markdown
+Huete, A. "A Soil-Adjusted Vegetation Index (SAVI)." Remote Sensing of Environment 25 (1988): 295-309
+```
+* Simple Ratio 650 (SR650)
+* Sum Green Index (SGI)
+* Transformed Difference Vegetation Index (TDVI)
+* Triangular Greenness Index (TGI)
+```markdown
+Hunt, E., C. Daughtry, J. Eitel, and D. Long. "Remote Sensing Leaf Chlorophyll Content Using a Visible Band Index." Agronomy Journal 103, No. 4 (2011): 1090-1099
+```
+* Visible Atmospherically Resistant Index (VARI)
+```markdown
+Gitelson, A., et al. "Vegetation and Soil Lines in Visible Spectral Space: A Concept and Technique for Remote Estimation of Vegetation Fraction. International Journal of Remote Sensing 23 (2002): 2537−2562
+```
+* Wide Dynamic Range Vegetation Index (WDRVI)
+* WorldView Improved Vegetation Index (WV-VI)
+* Atmospherically Resistant Vegetation Index (ARVI)
+* Modified Chlorophyll Absorption Ratio Index (MCARI)
+* Modified Chlorophyll Absorption Ratio Index - Improved (MCARI2)
+* Modified Red Edge Normalized Difference Vegetation Index (MRENDVI)
+* Modified Red Edge Simple Ratio (MRESR)
+* Modified Triangular Vegetation Index (MTVI)
+* Modified Triangular Vegetation Index - Improved (MTVI2)
+```markdown
+Haboudane, D., et al. "Hyperspectral Vegetation Indices and Novel Algorithms for Predicting Green LAI of Crop Canopies: Modeling and Validation in the Context of Precision Agriculture." Remote Sensing of Environment 90 (2004): 337-352
+```
+* Red Edge Normalized Difference Vegetation Index (RENDVI)
+* Transformed Chlorophyll Absorption Reflectance Index (TCARI)
+* Triangular Vegetation Index (TVI)
+* Vogelmann Red Edge Index 1 (VREI1)
+* Vogelmann Red Edge Index 2 (VREI2)
+* Simple Ratio 680 (SR680)
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* Simple Ratio 705 (SR705)
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* Normalized Difference 680 (ND680)
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* Normalized Difference 705 (ND705)
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* Modified Simple Ratio 705 (mSR705)
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* Modified Normalized Difference 705 (mND705)
+```markdown
+Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+```
+* Plant Senescence Reflectance Index (PSRI)
+* Water Band Index (WBI)
+* Anthocyanin Reflectance Index 1 (ARI1)
+* Anthocyanin Reflectance Index 2 (ARI2)
+* Carotenoid Reflectance Index 1 (CRI1)
+* Carotenoid Reflectance Index 2 (CRI2)
+* Photochemical Reflectance Index (PRI)
+* Structure-Insensitive Pigment Index (SIPI)
+* Red Green Ratio Index (RGRI)
+* Burn Area Index (BAI)
+* Iron Oxide Ratio (IOR)
 ```markdown
 Segal, D. "Theoretical Basis for Differentiation of Ferric-Iron Bearing Minerals, Using Landsat MSS Data." Proceedings of Symposium for Remote Sensing of Environment, 2nd Thematic Conference on Remote Sensing for Exploratory Geology, Fort Worth, TX (1982): pp. 949-951
 ```
-* SR680 Chlorophylls 
+* WorldView New Iron Index (WV-II)
+* WorldView Soil Index (WV-SI)
+* Normalized Difference Water Index (NDWI)
 ```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
+Gao. "NDWI—A normalized difference water index for remote sensing of vegetation liquid water from space." 1996
 ```
-* SR705 Chlorophylls 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* ND680 Chlorophylls 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* ND705 Chlorophylls 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* mSR705 Chlorophylls 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* mND705 Chlorophylls 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* PRI Chlorophylls/Carotenoids 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* SIPI Chlorophylls/Carotenoids 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* PSRI Chlorophylls/Carotenoids 
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-```
-* R/G Anthocyanin
-```markdown
-Sims, D.A., Gamon, J.A. (2002) Relationships between leaf pigment content and spectral reflectance across a wide range of species, leaf structures and developmental stages. Remote Sensing of Environment 81: 337–354
-``` 
+* Normalized Difference Mud Index (NDMI)
+* WorldView Built-Up Index (WV-BI)
+* WorldView Non-Homogeneous Feature Difference (WV-NHFD)
+* WorldView Water Index (WV-WI)
+
 
 ## SWIR 1000-2500nm
-* Clay Minerals (CM) 
+* Normalized Difference Nitrogen Index (NDNI)
+* Cellulose Absorption Index (CAI)
+* Lignin Cellulose Absorption Index (LCAI)
+* Normalized Difference Lignin Index (NDLI)
+* Clay Ratio (CR)
 ```markdown
 Drury, S. Image Interpretation in Geology. London: Allen and Unwin (1987), 243 pp
 ```
-* Sand moisture index (SMI) 
-* SWIR Fine particles Index (FI) 
+* Sand moisture index (SMI)
+* SWIR Fine particles Index (FI)
