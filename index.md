@@ -217,7 +217,6 @@ Gitelson, A., et al. "Vegetation and Soil Lines in Visible Spectral Space: A Con
 * Wide Dynamic Range Vegetation Index (WDRVI)
 ```markdown
 Gitelson, A. "Wide Dynamic Range Vegetation Index for Remote Quantification of Biophysical Characteristics of Vegetation." Journal of Plant Physiology 161, No. 2 (2004): 165-173.
-
 Henebry, G., A. Viña, and A. Gitelson. "The Wide Dynamic Range Vegetation Index and its Potential Utility for Gap Analysis." Gap Analysis Bulletin 12: 50-56
 ```
 * WorldView Improved Vegetation Index (WV-VI)
@@ -239,7 +238,6 @@ Haboudane, D., et al. "Hyperspectral Vegetation Indices and Novel Algorithms for
 * Modified Red Edge Normalized Difference Vegetation Index (MRENDVI)
 ```markdown
 Datt, B. "A New Reflectance Index for Remote Sensing of Chlorophyll Content in Higher Plants: Tests Using Eucalyptus Leaves." Journal of Plant Physiology 154 (1999): 30-36.
-
 Sims, D. and J. Gamon. "Relationships Between Leaf Pigment Content and Spectral Reflectance Across a Wide Range of Species, Leaf Structures and Developmental Stages." Remote Sensing of Environment 81 (2002): 337-354
 ```
 * Modified Red Edge Simple Ratio (MRESR)
@@ -249,7 +247,7 @@ Datt, B. "A New Reflectance Index for Remote Sensing of Chlorophyll Content in H
 ```
 * Modified Triangular Vegetation Index (MTVI)
 ```markdown
-
+Haboudane, D., et al. "Hyperspectral Vegetation Indices and Novel Algorithms for Predicting Green LAI of Crop Canopies: Modeling and Validation in the Context of Precision Agriculture." Remote Sensing of Environment 90 (2004): 337-352
 ```
 * Modified Triangular Vegetation Index - Improved (MTVI2)
 ```markdown
@@ -308,7 +306,6 @@ Merzlyak, J., et al. "Non-destructive Optical Detection of Pigment Changes Durin
 * Water Band Index (WBI)
 ```markdown
 Penuelas, J., et al. "The Reflectance at the 950-970 Region as an Indicator of Plant Water Status." International Journal of Remote Sensing 14 (1993): 1887-1905.
-
 Champagne, C., et al. "Mapping Crop Water Status: Issues of Scale in the Detection of Crop Water Stress Using Hyperspectral Indices." Proceedings of the 8th International Symposium on Physical Measurements and Signatures in Remote Sensing, Aussois, France (2001): 79-84
 ```
 * Anthocyanin Reflectance Index 1 (ARI1)
@@ -342,13 +339,11 @@ Gamon, J., and J. Surfus. "Assessing Leaf Pigment Content and Activity With a Re
 * Burn Area Index (BAI)
 ```markdown
 Chuvieco, E., M. Pilar Martin, and A. Palacios. “Assessment of Different Spectral Indices in the Red-Near-Infrared Spectral Domain for Burned Land Discrimination.” Remote Sensing of Environment 112 (2002): 2381-2396.
-
 Martín, M. Cartografía e inventario de incendios forestales en la Península Iberica a partir de imágenes NOAA AVHRR. Doctoral thesis, Universidad de Alcalá, Alcalá de Henares (1998).
 ```
 * Iron Oxide Ratio (IOR)
 ```markdown
 Segal, D. "Theoretical Basis for Differentiation of Ferric-Iron Bearing Minerals, Using Landsat MSS Data." Proceedings of Symposium for Remote Sensing of Environment, 2nd Thematic Conference on Remote Sensing for Exploratory Geology, Fort Worth, TX (1982): pp. 949-951.
-
 Drury, S. Image Interpretation in Geology. London: Allen and Unwin (1987), 243 pp.
 ```
 * WorldView New Iron Index (WV-II)
@@ -377,18 +372,15 @@ Wolf, A. Using WorldView 2 Vis-NIR MSI Imagery to Support Land Mapping and Featu
 Wolf, A. Using WorldView 2 Vis-NIR MSI Imagery to Support Land Mapping and Feature Extraction Using Normalized Difference Index Ratios. Unpublished report, Longmont, CO: DigitalGlobe (2010).
 ```
 
-
 ## SWIR 1000-2500nm
 * Normalized Difference Nitrogen Index (NDNI)
 ```markdown
 Serrano, L., J. Penuelas, and S. Ustin. "Remote Sensing of Nitrogen and Lignin in Mediterranean Vegetation from AVIRIS Data: Decomposing Biochemical from Structural Signals." Remote Sensing of Environment 81 (2002):355-364.
-
 Fourty, T., et al. "Leaf Optical Properties with Explicit Description of Its Biochemical Composition: Direct and Inverse Problems." Remote Sensing of Environment 56 (1996):104-117.
 ```
 * Cellulose Absorption Index (CAI)
 ```markdown
 Daughtry, C. "Discriminating Crop Residues from Soil by Short-Wave Infrared Reflectance." Agronomy Journal 93 (2001): 125-131.
-
 Daughtry, C., E. Hunt Jr., and J. McMurtrey III. "Assessing Crop Residue Cover Using Shortwave Infrared Reflectance." Remote Sensing of Environment 90 (2004): 126-134.
 ```
 * Lignin Cellulose Absorption Index (LCAI)
@@ -398,9 +390,7 @@ Daughtry, C., E. Hunt, Jr., P. Doraiswamy, and J. McMurtrey III. "Remote Sensing
 * Normalized Difference Lignin Index (NDLI)
 ```markdown
 Serrano, L., J. Penuelas, and S. Ustin. "Remote Sensing of Nitrogen and Lignin in Mediterranean Vegetation from AVIRIS Data: Decomposing Biochemical from Structural Signals." Remote Sensing of Environment 81 (2002): 355-364.
-
 Fourty, T., et al. "Leaf Optical Properties with Explicit Description of Its Biochemical Composition: Direct and Inverse Problems." Remote Sensing of Environment 56 (1996): 104-117.
-
 Melillo, J., J. Aber, and J. Muratore. "Nitrogen and Lignin Control of Hardwood Leaf Litter Decomposition Dynamics." Ecology 63 (1982): 621-626.
 ```
 * Clay Ratio (CR)
