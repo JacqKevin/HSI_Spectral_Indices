@@ -256,7 +256,6 @@ Haboudane, D., et al. "Hyperspectral Vegetation Indices and Novel Algorithms for
 * Red Edge Normalized Difference Vegetation Index (RENDVI)
 ```markdown
 Gitelson, A., and M. Merzlyak. "Spectral Reflectance Changes Associated with Autumn Senescence of Aesculus Hippocastanum L. and Acer Platanoides L. Leaves." Journal of Plant Physiology 143 (1994): 286?292.
-
 Sims, D., and J. Gamon. "Relationships Between Leaf Pigment Content and Spectral Reflectance Across a Wide Range of Species, Leaf Structures and Developmental Stages." Remote Sensing of Environment 81 (2002): 337-354
 ```
 * Transformed Chlorophyll Absorption Reflectance Index (TCARI)
