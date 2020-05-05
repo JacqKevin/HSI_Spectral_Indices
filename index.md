@@ -9,21 +9,21 @@ The mandatory data to use this toolbox are a hyperspectral image (M), the corres
 
 ## VNIR example
 Here we can see an example with lamination. White laminae present higher values that correspond to the diatoms in spring and summer. Whereas dark laminae corresponding to winter have the lowest values.
-<img src="Chloro.jpg" width="600"/>
+<img src="Chloro.jpg" width="900"/>
 
 The correlation matrix shows that even if 18 indices are related to chlorophylls and 3 to oxides, they don't have the same trend, so it must be chosen wisely.
 
-<img src="Corr_VNIR_Indice.jpg" width="600"/>
+<img src="Corr_VNIR_Indice.jpg" width="900"/>
 
 ## SWIR example
 
 The reflectance at 1935 nm highlights the moisture abundance, with higher values corresponding to low moisture abundance and inversely. So light deposits seem to have lower moisture than dark ones.
 
-<img src="Moisture.jpg" width="600"/>
+<img src="Moisture.jpg" width="900"/>
 
 The correlation matrix shows that several indices are highly correlated.
 
-<img src="Corr_SWIR_Indice.jpg" width="600"/>
+<img src="Corr_SWIR_Indice.jpg" width="900"/>
 
 # Spectroscopic and hyperspectral indices:
 This toolbox uses the following list of spectroscopic and remote sensing indices. If you find that important resources are not included, please feel free to contact me.
