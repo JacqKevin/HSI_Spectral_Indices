@@ -1277,7 +1277,7 @@ if sum(wl<2400&wl>1100)>0
         imagesc(d,d(1:size(C,1)),IM)
         caxis([nanmean(IM(:))-3*nanstd(IM(:)) nanmean(IM(:))+3*nanstd(IM(:))])
         colorbar
-        map=associated_swir_map{i};
+        map=associated_swir_map{indx(i)};
         colormap(map)
         xlabel('Depth (cm)')
         ylabel('Width (cm)')
@@ -1290,7 +1290,7 @@ if sum(wl<2400&wl>1100)>0
         ylabel('Width (cm)')
         set(gca,'fontsize',14)
         ha(3)=subplot(313);
-        plot(d,nanmean(IM(round(0.4*size(IM,1):0.6*size(IM,1)),:),1),'color',associated_swir_p{i})
+        plot(d,nanmean(IM(round(0.4*size(IM,1):0.6*size(IM,1)),:),1),'color',associated_swir_p{indx(i)})
         grid on
         xlabel('Depth (cm)')
         ylabel('SI')
