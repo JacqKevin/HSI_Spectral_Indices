@@ -1,11 +1,17 @@
 ---
 layout: default
 title: Spectroscopic and Remote Sensing indices
-description: Estimation of several chemical parameters based on litterature indices. Some were created from spectroscopic and hyperspectral devices, others from remote sensing (multi- and hyper-spectral sensors).
+description: Estimation of several chemical parameters based on literature indices. Some were created from spectroscopic and hyperspectral devices, others from remote sensing (multi- and hyper-spectral sensors).
 ---
 
+# Toolbox
+The mandatory data to use this toolbox are a hyperspectral image (M), the corresponding RGB image (RGB), depth (dm), and wavelength (wl). Then, the toolbox will find with wl if it is VNIR or SWIR data. Then, it will propose to you all the possible indices that you can choose to estimate. Finally, an image correlation between the selected indices is made at the end.
 
-A list of spectroscopic and remote sensing indices. If you find that important resources are not included, please feel free to contact me.
+<img src="Chloro.jpg" width="600"/>
+
+<img src="CorrIndice.jpg" width="600"/>
+
+This toolbox uses the following list of spectroscopic and remote sensing indices. If you find that important resources are not included, please feel free to contact me.
 
 # Spectroscopic and hyperspectral indices:
 ## VNIR 400-1000nm
@@ -138,7 +144,7 @@ Sripada, R., et al. "Determining In-Season Nitrogen Requirements for Corn Using 
 ```markdown
 Louhaichi, M., M. Borman, and D. Johnson. "Spatially Located Platform and Aerial Photography for Documentation of Grazing Impacts on Wheat." Geocarto International 16, No. 1 (2001): 65-70
 ```
-* Green Normalized Difference Vegetation Index (GNDVI)
+* Green Normalized Difference Vegetation Index (GNDVI)
 ```markdown
 Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692
 ```
@@ -162,7 +168,7 @@ Crippen, R. "Calculating the Vegetation Index Faster." Remote Sensing of Environ
 ```markdown
 Boegh, E., H. Soegaard, N. Broge, C. Hasager, N. Jensen, K. Schelde, and A. Thomsen. "Airborne Multi-spectral Data for Quantifying Leaf Area Index, Nitrogen Concentration and Photosynthetic Efficiency in Agriculture." Remote Sensing of Environment 81, no. 2-3 (2002): 179-193
 ```
-* Modified Non-Linear Index (MNLI)
+* Modified Non-Linear Index (MNLI)
 ```markdown
 Yang, Z., P. Willis, and R. Mueller. "Impact of Band-Ratio Enhanced AWIFS Image to Crop Classification Accuracy." Proceedings of the Pecora 17 Remote Sensing Symposium (2008), Denver, CO
 ```
