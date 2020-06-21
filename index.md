@@ -1,8 +1,3 @@
----
-layout: default
-title: Spectroscopic and Remote Sensing indices
-description: Estimation of several chemical parameters based on literature indices. Some were created from spectroscopic and hyperspectral devices, others from remote sensing (multi- and hyper-spectral sensors).
----
 
 # Toolbox
 The mandatory data to use this toolbox are a hyperspectral image (M), the corresponding RGB image (RGB), depth (dm), and wavelength (wl). Then, the toolbox will find with wl if it is VNIR or SWIR data. Then, it will propose to you all the possible indices that you can choose to estimate. Finally, an image correlation between the selected indices is made at the end.
